@@ -10,9 +10,7 @@ Feel free to reach out to me at:
 - **Email**: kcn0015@auburn.edu
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/kevinchinng)
 
-## How to Run the Portfolio Locally
-If you'd like to run this portfolio on your local machine, you can do so by cloning the repository:
+## How to Run the Portfolio 
+If you'd like to run this portfolio on your local machine, go to this website:
 
-```bash
-git clone https://github.com/yourusername/personal-portfolio.git
-cd personal-portfolio
+- **Website**: [Portfolio](https://)
