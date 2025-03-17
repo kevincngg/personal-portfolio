@@ -10,7 +10,7 @@ Feel free to reach out to me at:
 - **Email**: kcn0015@auburn.edu
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/kevinchinng)
 
-## How to Run the Portfolio 
-If you'd like to run this portfolio on your local machine, go to this website:
+## Website
+Website Link:
 
 - **Website**: [Portfolio](https://kevincngg.github.io/personal-portfolio/)
